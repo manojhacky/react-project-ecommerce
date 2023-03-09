@@ -1,0 +1,99 @@
+.bis1{
+    margin: 20px;
+    background-color: rgb(10, 10, 10);
+    color:blueviolet;
+    padding: 20px;
+    border-radius: 20px;
+
+}
+.inn1{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.span1{
+    color: white;
+    font-weight: lighter;
+}
+.head1{
+   color: blue;
+   margin: 10px;
+}
+.imgs12{
+height: 20%;
+width: 40%;
+margin-top: 200px;
+margin-right: 19px;
+}
+.dets1{
+    margin: 15px;
+    padding: 10px;
+}
+.hed1{
+    color: azure;
+    
+}
+.red1{
+    color: red;
+    font-weight: bold;
+}
+.h4{
+    color: green;
+}
+.mrp{
+    text-decoration: line-through;
+    color: white;
+}
+.para1{
+    color: turquoise;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+.buycart{
+    border-radius: 7px;
+    border: 1px solid white;
+    background-color: rgb(0, 0, 0);
+    margin: 100px;
+    margin-left: 300px;
+    padding: 30px;
+    text-align: center;
+    width: 50%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: turquoise;
+}
+
+.ali1{
+    display: flex;
+    margin-left: 180px;
+    text-align: center;
+}
+.num1{
+   
+    width: 60px;
+    height: 20px;
+    margin-left: 6px;
+}
+.pa1{
+    margin-left: 50px;
+}
+.but12{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: gold;
+    color: black;
+    margin-right: 10px;
+}
+.but21{
+    padding: 15px;
+    border-radius: 20px;
+    background-color: orange;
+    color: black;
+}

@@ -1,0 +1,25 @@
+.dp1{
+   
+    color: aliceblue;
+  
+   margin: 20px;
+
+}
+.dpa1{
+    height: 150px;
+    width: 150px;
+    border-radius: 90px;
+    margin: 10px;
+    
+}
+span{
+    font-weight: bolder;
+    color: blueviolet;
+    white-space: normal;
+}
+.dp11{
+text-align: center;
+color: aliceblue;
+font-weight: bolder;
+font-size: 30px;
+}

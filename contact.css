@@ -1,0 +1,41 @@
+.head1{
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ex1{
+    display: flex;
+    border-radius: 20px;
+    border: 4px dashed orange;
+    background-color: beige;
+    margin: 20px;
+    padding: 15px;
+}
+hr{
+    color: aliceblue;
+}
+.desc{
+    display: flex;
+    flex-direction: column;
+}
+.ro1{
+    display: flex;
+    margin: 6px;
+    padding: 6px;
+}
+.card1{
+    border-radius: 20px;
+    border: 1px solid white;
+    width: fit-content;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+.wholecards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.logos1{
+    height: 100px;
+    width: 100px;
+}
